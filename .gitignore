@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+
+# Speech recognition model
+vosk-model-*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary recordings
+*.wav
+*.mp3
+
+# Environment variables and secrets
+.env
